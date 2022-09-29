@@ -1,0 +1,26 @@
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+±±  Ira ser apresentado um labirinto.                                  ±±
+±±  Dentro do labirinto deve aparecer um Avatar numa posicao           ±±
+±± aleatoria e que pode avancar pelos corredores do labirinto,         ±±
+±± nao sendo permitido atravessar as paredes.                          ±±
+±±                                                                     ±±
+±±  A navegacao do Avatar pelo labirinto devera ser efectuada          ±±
+±± com recurso ao teclado, nomeadamente as setas  (<-,...,->)          ±±
+±±                                                                     ±±
+±±  Apos o inicio do jogo o avatar dever percorrer as sucessivas       ±±
+±± letras da palavra apresentada e devem ser mostradas a letras        ±±
+±± que ja foram encontradas. Quando sao encontradas todas as           ±±
+±± letras da palavra, termina o jogo.                                  ±±
+±±                                                                     ±±
+±±  Sempre que termina um nivel com sucesso e atribuida uma pontuacao  ±±
+±± de acordo com um criterio relacionado com a rapidez com que se      ±±
+±± termina o níivel ou outro criterio a escolha.                       ±±
+±±                                                                     ±±
+±±  Durante o jogo deve ser mostrado o tempo decorrido para que o      ±±
+±± jogador possa controlar quanto tempo ainda tem antes de             ±±
+±± terminar a palavra apresentada.                                     ±±
+±± 								       ±±
+±± ESC para Sair						       ±±
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+
